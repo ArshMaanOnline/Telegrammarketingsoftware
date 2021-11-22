@@ -2,7 +2,7 @@
 
 Tele Diamond Script scrapes the active members from the target telegram groups and transfer them to your group and also you can send thousands of messages to users. You can grow any type of your business by adding thousands of telegram members to your group and you can run it on your mobile and computer.
 
-![](images/TelegramMemberAdder.png)
+![](TeleDiamond.jpg)
 
 
 20+ Features:
