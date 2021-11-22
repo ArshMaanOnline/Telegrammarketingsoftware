@@ -29,3 +29,5 @@ Normal Adder for Computer,
 Multi Adder for Computer,
 Scrape from Multiple groups,
 Use All Numbers at Once,
+
+![](TelegramMemberAdder.png)
