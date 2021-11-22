@@ -31,3 +31,9 @@ Scrape from Multiple groups,
 Use All Numbers at Once,
 
 ![](TelegramMemberAdder.png)
+
+Price of Telegram Member Adder Software -- 3000 inr (40$) Lifetime use
+
+Software Tutorial Video -- https://www.youtube.com/watch?v=UjFz6pDp_Ng
+
+Visit Our Website : https://arshmaan.com/new-telegram-member-adder-how-to-increase-telegram-members-send-bulk-message/
