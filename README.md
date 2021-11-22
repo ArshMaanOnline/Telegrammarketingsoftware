@@ -6,25 +6,25 @@ Tele Diamond Script scrapes the active members from the target telegram groups a
 
 20+ Features:
 
-Multi Login
-BanFilter + Delete Ban Numbers
-Limited Account Checker + Remover
-Scraper Public + Private Groups
-Private Group Joiner
-Update First Name, Last Name, Username
-Normal Message Sender
-Message Sender For phone
-Multiple Message Sender
-Daily Online Filter
-Weekly Online Filter
-Super Fast Adding
-Delete Already Members
-Set Profile Picture of all Mobile numbers
-Contact Merge Option for Phone + Computer
-Bulk Adder For Mobile
-No Need API ID
-Single Adder For Mobile
-Normal Adder for Computer
-Multi Adder for Computer
-Scrape from Multiple groups
-Use All Numbers at Once
+Multi Login,
+BanFilter + Delete Ban Numbers,
+Limited Account Checker + Remover,
+Scraper Public + Private Groups,
+Private Group Joiner,
+Update First Name, Last Name, Username,
+Normal Message Sender,
+Message Sender For phone,
+Multiple Message Sender,
+Daily Online Filter,
+Weekly Online Filter,
+Super Fast Adding,
+Delete Already Members,
+Set Profile Picture of all Mobile numbers,
+Contact Merge Option for Phone + Computer,
+Bulk Adder For Mobile,
+No Need API ID,
+Single Adder For Mobile,
+Normal Adder for Computer,
+Multi Adder for Computer,
+Scrape from Multiple groups,
+Use All Numbers at Once,
