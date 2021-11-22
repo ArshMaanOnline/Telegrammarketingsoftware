@@ -1,11 +1,11 @@
-# Telegram Marketing Software
+# Tele Diamond - Telegram Marketing Software 2022
 
 Tele Diamond Script scrapes the active members from the target telegram groups and transfer them to your group and also you can send thousands of messages to users. You can grow any type of your business by adding thousands of telegram members to your group and you can run it on your mobile and computer.
 
 ![](TeleDiamond.jpg)
 
 
-20+ Features:
+# 20+ Features:
 
 Multi Login,
 BanFilter + Delete Ban Numbers,
